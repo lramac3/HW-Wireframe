@@ -44,7 +44,7 @@ section {
     background: #ebebeb;
     margin-top: 15px;
     width: 495px;
-    height: 265px;
+    height: 295px;
     float: left;
     display: block;    
 }
@@ -89,7 +89,7 @@ section {
     padding-top: 20px;
     margin-top: 15px;
     width: 450px;
-    height: 265px;
+    height: 295px;
     float: right;
     display: block;
 }
@@ -102,7 +102,7 @@ section {
 footer {
     background: #ebebeb;
     padding: 20px;
-    margin-top: 20px;
+    margin-top: 25px;
 }
 
 
